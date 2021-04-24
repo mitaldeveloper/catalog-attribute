@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/** Careers module xml
+ * @category  Alps
+ * @package   Alps_Careers
+ * @author    Alps
+ * @copyright Copyright (c) 2010-2017 Alps Software Private Limited (https://alpswebsolutions.com/) 
+ */
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Mital_Catalog" setup_version="2.0.0">
+    </module>
+</config>
